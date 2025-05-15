@@ -1,1 +1,1 @@
-termux-toast "[SUPREMA] Rozkaz przyjęty. Synchronizacja LIVE aktywna."
+echo "[SUPREMA] Agent działa prawidłowo"; date
